@@ -13,6 +13,8 @@ namespace ConsoleAppTestCollaboration {
 
 
 
+			Console.WriteLine("hello, master!");
+
 			Console.ReadKey();
 		}
 	}
