@@ -11,6 +11,10 @@ namespace ConsoleAppTestCollaboration {
 			Console.WriteLine("Misha, hello!");
 
 			Console.WriteLine("hello, Sasha!");
+			Console.WriteLine("hello, Sasha!");
+			Console.WriteLine("hello, Sasha!");
+			Console.WriteLine("hello, Sasha!");
+			Console.WriteLine("hello, Sasha!");
 
 			Console.ReadKey();
 		}
