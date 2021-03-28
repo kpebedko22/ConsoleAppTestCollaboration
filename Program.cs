@@ -8,13 +8,9 @@ namespace ConsoleAppTestCollaboration {
 	class Program {
 		static void Main(string[] args) {
 
-			Console.WriteLine("Misha, hello!");
+			Console.WriteLine("ht-evth!");
 
-			Console.WriteLine("hello, Sasha!");
-			Console.WriteLine("hello, Sasha!");
-			Console.WriteLine("hello, Sasha!");
-			Console.WriteLine("hello, Sasha!");
-			Console.WriteLine("hello, Sasha!");
+
 
 			Console.ReadKey();
 		}
