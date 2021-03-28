@@ -8,7 +8,8 @@ namespace ConsoleAppTestCollaboration {
 	class Program {
 		static void Main(string[] args) {
 
-			Console.WriteLine("ht-evth!");
+			Console.WriteLine("Лаба");
+			Console.WriteLine("Астахова");
 
 
 
